@@ -1,0 +1,6 @@
+{
+    "r.libPaths": [
+        "@rpath/libreadline.6.2.dylib"
+    ],
+    "r.helpPanel.previewLocalPackages": []
+}
